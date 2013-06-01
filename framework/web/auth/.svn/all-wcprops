@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/weout_event/!svn/ver/2/event/framework/web/auth
+END
+CAuthAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CAuthAssignment.php
+END
+CUserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CUserIdentity.php
+END
+CWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/3/event/framework/web/auth/CWebUser.php
+END
+schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/schema-mysql.sql
+END
+CBaseUserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CBaseUserIdentity.php
+END
+CAccessControlFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CAccessControlFilter.php
+END
+CAuthItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CAuthItem.php
+END
+schema-sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/schema-sqlite.sql
+END
+schema-oci.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/schema-oci.sql
+END
+CPhpAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CPhpAuthManager.php
+END
+schema-pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/schema-pgsql.sql
+END
+CAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CAuthManager.php
+END
+schema-mssql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/schema-mssql.sql
+END
+CDbAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weout_event/!svn/ver/2/event/framework/web/auth/CDbAuthManager.php
+END

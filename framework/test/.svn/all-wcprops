@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/weout_event/!svn/ver/2/event/framework/test
+END
+CDbTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/framework/test/CDbTestCase.php
+END
+CWebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/2/event/framework/test/CWebTestCase.php
+END
+CDbFixtureManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weout_event/!svn/ver/2/event/framework/test/CDbFixtureManager.php
+END
+CTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/weout_event/!svn/ver/2/event/framework/test/CTestCase.php
+END

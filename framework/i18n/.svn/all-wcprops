@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/weout_event/!svn/ver/2/event/framework/i18n
+END
+CDateFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CDateFormatter.php
+END
+CChoiceFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CChoiceFormat.php
+END
+CLocale.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CLocale.php
+END
+CPhpMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CPhpMessageSource.php
+END
+CNumberFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CNumberFormatter.php
+END
+CMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CMessageSource.php
+END
+CDbMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CDbMessageSource.php
+END
+CGettextMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weout_event/!svn/ver/2/event/framework/i18n/CGettextMessageSource.php
+END

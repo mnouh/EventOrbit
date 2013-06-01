@@ -1,0 +1,146 @@
+<?php
+
+// uncomment the following to define a path alias
+// Yii::setPathOfAlias('local','path/to/local-folder');
+// This is the main Web application configuration. Any writable
+// CWebApplication properties can be configured here.
+return array(
+    'basePath' => dirname(__FILE__) . DIRECTORY_SEPARATOR . '..',
+    'name' => 'Event Orbit',
+    // preloading 'log' component
+    'preload' => array('log'),
+    // autoloading model and component classes
+    'import' => array(
+        'application.models.*',
+        'application.components.*',
+        'ext.bootstrap.components.*',
+        'application.extensions.yii-mail.*',
+        //'ext.ESetReturnUrlFilter',
+    ),
+    'modules' => array(
+        // uncomment the following to enable the Gii tool
+
+        'gii' => array(
+            'class' => 'system.gii.GiiModule',
+            'password' => 'hello1234',
+            // If removed, Gii defaults to localhost only. Edit carefully to taste.
+            'ipFilters' => array('127.0.0.1', '::1'),
+            'generatorPaths' => array(
+                'ext.bootstrap.gii', // Since 0.9.1
+            ),
+        ),
+    ),
+    'defaultController' => 'account',
+    // application components
+    'components' => array(
+        'user' => array(
+            // enable cookie-based authentication
+            'allowAutoLogin' => true,
+            'class'=>'WebUser',
+        ),
+        /*
+        'cache'=>array(
+            'class'=>'system.caching.CMemCache',
+          
+            'servers'=>array(
+                array('host'=>'localhost', 'port'=>11211, 'weight'=>100),
+                //array('host'=>'server2', 'port'=>11211, 'weight'=>40),
+            ),
+        ),*/
+        'mail' => array(
+            'class' => 'application.extensions.yii-mail.YiiMail',
+            'transportType' => 'smtp',
+            'transportOptions' => array(
+                'host' => 'smtp.gmail.com',
+                'username' => 'welcome@notesforus.com',
+                'password' => 'chief4625',
+                'encryption' => 'tls',
+                'port' => '465',
+            ),
+            'viewPath' => 'application.views.mail',
+            'logging' => true,
+            'dryRun' => false,
+        ),
+        /*
+          'db'=>array(
+          'connectionString' => 'sqlite:protected/data/blog.db',
+          'tablePrefix' => 'tbl_',
+          ), */
+        // uncomment the following to use a MySQL database
+        'bootstrap' => array('class' => 'ext.bootstrap.components.Bootstrap'),
+        'db' => array(
+            'connectionString' => 'mysql:host=localhost;dbname=vout;',
+            'emulatePrepare' => true,
+            'schemaCachingDuration' => 3600,
+            'username' => 'root',
+            'password' => 'chief4625',
+            'charset' => 'utf8',
+            'tablePrefix' => 'tbl_',
+        ),
+        /*
+        'cache' => array (
+                          'class' => 'CMemCache'
+                         ),
+         * 
+         */
+        'errorHandler' => array(
+            // use 'site/error' action to display errors
+            'errorAction' => 'account/error',
+        ),
+        'urlManager' => array(
+            'urlFormat' => 'path',
+            'showScriptName' => false,
+            'rules' => array(
+                'user/events/<lookup>' => 'user/events',
+                'user/<lookup>'=>'user/view',
+                'city/test'=>'city/test',
+                'city/autocomplete'=>'city/autocomplete',
+                'city/<city_url>'=>'city/index',
+                'post/<id:\d+>/<title:.*?>' => 'post/view',
+                'posts/<tag:.*?>' => 'post/index',
+                '<controller:\w+>/<action:\w+>' => '<controller>/<action>',
+                'business/<bizurl>'=>'business/view',
+                'reviews/<bizurl>'=>'reviews/view',
+                'events/create/<bizurl>'=>'events/create',
+                'reviews/create/<bizurl>'=>'reviews/create',
+                'discuss' => 'eventdiscuss/addDiscussion',
+                'find'=>'events/locate',
+                'event/<eventurl>'=>'events/view',
+                //'business/<url:\w+>'=>'business/view',
+                'login' => 'account/login',
+                'signup' => 'account/signup',
+                'logout' => 'account/logout',
+                'index' => 'account/index',
+                'search' => 'business/search',
+                'searcher' => 'account/searcher',
+                'locate' => 'business/locate',
+                
+            ),
+        ),
+        'log' => array(
+            'class' => 'CLogRouter',
+            'routes' => array(
+                array(
+                    'class' => 'CFileLogRoute',
+                    'levels' => 'error, warning',
+                ),
+            // uncomment the following to show log messages on web pages
+            /*
+              array(
+              'class'=>'CWebLogRoute',
+              ),
+             */
+            ),
+        ),
+    ),
+    // application-level parameters that can be accessed
+    // using Yii::app()->params['paramName']
+    'params' => require(dirname(__FILE__) . '/params.php'),
+    'params' => array(
+        'public' => true,
+        'layout_clean' => false,
+        'logout' => false,
+        'login' => true,
+        'signup' => true,
+    )
+);

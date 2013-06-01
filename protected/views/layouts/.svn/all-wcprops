@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/main.php
+END
+public.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/public.php
+END
+column1.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/column1.php
+END
+column2.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/column2.php
+END
+private_clean.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/private_clean.php
+END
+indexpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/indexpage.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/index.php
+END
+private.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/private.php
+END
+secondary.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weout_event/!svn/ver/2/event/protected/views/layouts/secondary.php
+END

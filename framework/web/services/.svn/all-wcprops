@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/weout_event/!svn/ver/2/event/framework/web/services
+END
+CWebServiceAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weout_event/!svn/ver/2/event/framework/web/services/CWebServiceAction.php
+END
+CWsdlGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weout_event/!svn/ver/2/event/framework/web/services/CWsdlGenerator.php
+END
+CWebService.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weout_event/!svn/ver/2/event/framework/web/services/CWebService.php
+END

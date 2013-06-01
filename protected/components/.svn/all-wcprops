@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/weout_event/!svn/ver/2/event/protected/components
+END
+EventDAO.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/protected/components/EventDAO.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weout_event/!svn/ver/2/event/protected/components/UserIdentity.php
+END
+XMLSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weout_event/!svn/ver/2/event/protected/components/XMLSerializer.php
+END
+UserMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/protected/components/UserMenu.php
+END
+TagCloud.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/protected/components/TagCloud.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/protected/components/Controller.php
+END
+GMaps.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/protected/components/GMaps.php
+END
+RecentComments.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/weout_event/!svn/ver/2/event/protected/components/RecentComments.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weout_event/!svn/ver/2/event/protected/components/WebUser.php
+END
+webservice.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/protected/components/webservice.php
+END

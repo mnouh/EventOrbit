@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies
+END
+CExpressionDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies/CExpressionDependency.php
+END
+CCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies/CCacheDependency.php
+END
+CDbCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies/CDbCacheDependency.php
+END
+CFileCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies/CFileCacheDependency.php
+END
+CChainedCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies/CChainedCacheDependency.php
+END
+CGlobalStateCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies/CGlobalStateCacheDependency.php
+END
+CDirectoryCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weout_event/!svn/ver/2/event/framework/caching/dependencies/CDirectoryCacheDependency.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Transport/Esmtp
+END
+AuthHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Transport/Esmtp/AuthHandler.php
+END
+Authenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Transport/Esmtp/Authenticator.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mailer
+END
+RecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mailer/RecipientIterator.php
+END
+ArrayRecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mailer/ArrayRecipientIterator.php
+END

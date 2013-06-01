@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/weout_event/!svn/ver/2/event/framework/caching
+END
+CEAcceleratorCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weout_event/!svn/ver/2/event/framework/caching/CEAcceleratorCache.php
+END
+CWinCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/2/event/framework/caching/CWinCache.php
+END
+CDummyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/framework/caching/CDummyCache.php
+END
+CXCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/weout_event/!svn/ver/2/event/framework/caching/CXCache.php
+END
+CCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/weout_event/!svn/ver/2/event/framework/caching/CCache.php
+END
+CMemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/2/event/framework/caching/CMemCache.php
+END
+CApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/2/event/framework/caching/CApcCache.php
+END
+CDbCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/framework/caching/CDbCache.php
+END
+CFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weout_event/!svn/ver/2/event/framework/caching/CFileCache.php
+END
+CZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weout_event/!svn/ver/2/event/framework/caching/CZendDataCache.php
+END

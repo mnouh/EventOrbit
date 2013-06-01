@@ -1,0 +1,84 @@
+10
+
+dir
+2
+http://weout.unfuddle.com/svn/weout_event/event/android-app
+http://weout.unfuddle.com/svn/weout_event
+
+
+
+2012-02-21T03:55:15.019996Z
+2
+mnouh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3af96692-c55a-4d6b-bc9c-a27fb50edf17
+
+
+
+
+
+
+0
+
+AndroidManifest.xml
+file
+
+
+
+
+2012-02-01T02:44:00.000000Z
+48a95765eedde958879e8d2a5672cb08
+2012-02-21T03:55:15.019996Z
+2
+mnouh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+897
+
+assets
+dir
+
+bin
+dir
+
+gen
+dir
+
+res
+dir
+
+src
+dir
+

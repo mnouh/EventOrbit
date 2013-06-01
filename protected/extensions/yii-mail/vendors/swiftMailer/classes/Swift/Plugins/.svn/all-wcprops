@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins
+END
+PopBeforeSmtpPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/PopBeforeSmtpPlugin.php
+END
+ThrottlerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/ThrottlerPlugin.php
+END
+BandwidthMonitorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/BandwidthMonitorPlugin.php
+END
+DecoratorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/DecoratorPlugin.php
+END
+AntiFloodPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/AntiFloodPlugin.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/Logger.php
+END
+Reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/Reporter.php
+END
+LoggerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/LoggerPlugin.php
+END
+ReporterPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/ReporterPlugin.php
+END
+Sleeper.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/Sleeper.php
+END
+Timer.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weout_event/!svn/ver/2/event/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Plugins/Timer.php
+END

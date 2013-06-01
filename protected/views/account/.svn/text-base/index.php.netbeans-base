@@ -1,0 +1,64 @@
+<?php 
+$this->pageTitle=Yii::app()->name . ' - Find an Event'; 
+$cs=Yii::app()->clientScript;  
+$cs->registerScriptFile(Yii::app()->baseUrl . '/js/jquery.watermarkinput.js', CClientScript::POS_HEAD);  
+//$cs->registerScriptFile(Yii::app()->baseUrl . '/js/jquery.bar.custom.js', CClientScript::POS_HEAD);
+//$cs->registerScriptFile(Yii::app()->baseUrl . '/js/orbit.js', CClientScript::POS_HEAD);
+//$cs->registerScriptFile('http://maps.googleapis.com/maps/api/js?key=AIzaSyBYyogbtGgj4TloAVbB0MJC8o2JIrjwlvc&sensor=true', CClientScript::POS_HEAD);
+?>
+
+
+<?php $form=$this->beginWidget('CActiveForm', array(
+        //'action'=>"search",
+        //'method'=>'get',
+        'id'=>'findparty-form',
+	'enableAjaxValidation'=>true,
+        'enableClientValidation'=>true,
+        'clientOptions'=>array('validateOnSubmit'=>TRUE, 'validationDelay' => 100),
+        //'htmlOptions'=>array('onSubmit'=>'return searchLocations()'),
+)); ?>
+          
+<section>
+<div class="top">discover events that orbit you</div>
+<div class="bottom">
+		
+                <?php echo $form->textField($model,'addressInput', array('class'=>'inputBox', 'autocomplete' => 'off')); ?>
+  
+  
+  <?php
+	/*	echo CHtml::ajaxSubmitButton(
+                                        'Find Event',
+                                        array(''),
+                                        array('success'=>'js:function(data) {
+                                                    jQuery("div#status").html(data);
+                                                    jQuery("div#load").removeClass("loading");
+                                                    jQuery("div#main-map").show();      
+                                               }',
+                                                //'update'=>'#successMessage',
+                                                'beforeSend' => 'function() {$("div#load").addClass("loading");}',
+                                                //'validated' => 'function() {changeButton();}',
+                                                'complete' => 'function() {load();searchLocations();}',
+                                                'type' => 'POST'
+                                        ),
+                                array('class'=> 'btn')
+                                );
+         * 
+         */
+  echo CHtml::submitButton('Find Event', array('name' => 'Submit', 'class' => 'btn'));
+            ?>
+  <div class="clear"></div>
+  <?php echo $form->error($model,'addressInput', array('class'=>'error'));?>
+</div>
+
+<?php $this->endWidget(); ?>
+</section>
+
+    
+  
+    
+    
+          
+
+
+
+

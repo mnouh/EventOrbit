@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/weout_event/!svn/ver/2/event/framework/console
+END
+CConsoleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weout_event/!svn/ver/2/event/framework/console/CConsoleCommand.php
+END
+CConsoleCommandRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weout_event/!svn/ver/2/event/framework/console/CConsoleCommandRunner.php
+END
+CHelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weout_event/!svn/ver/2/event/framework/console/CHelpCommand.php
+END
+CConsoleApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weout_event/!svn/ver/2/event/framework/console/CConsoleApplication.php
+END

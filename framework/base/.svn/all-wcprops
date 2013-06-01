@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/weout_event/!svn/ver/2/event/framework/base
+END
+CModelBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/framework/base/CModelBehavior.php
+END
+CComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/weout_event/!svn/ver/2/event/framework/base/CComponent.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/weout_event/!svn/ver/2/event/framework/base/interfaces.php
+END
+CHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/weout_event/!svn/ver/2/event/framework/base/CHttpException.php
+END
+CErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weout_event/!svn/ver/2/event/framework/base/CErrorHandler.php
+END
+CModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/weout_event/!svn/ver/2/event/framework/base/CModel.php
+END
+CSecurityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weout_event/!svn/ver/2/event/framework/base/CSecurityManager.php
+END
+CException.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/weout_event/!svn/ver/2/event/framework/base/CException.php
+END
+CApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/2/event/framework/base/CApplication.php
+END
+CExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weout_event/!svn/ver/2/event/framework/base/CExceptionEvent.php
+END
+CModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/weout_event/!svn/ver/2/event/framework/base/CModule.php
+END
+CApplicationComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weout_event/!svn/ver/2/event/framework/base/CApplicationComponent.php
+END
+CStatePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weout_event/!svn/ver/2/event/framework/base/CStatePersister.php
+END
+CModelEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/framework/base/CModelEvent.php
+END
+CBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/weout_event/!svn/ver/2/event/framework/base/CBehavior.php
+END
+CErrorEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/framework/base/CErrorEvent.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/weout_event/!svn/ver/2/event/protected/config
+END
+params.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/weout_event/!svn/ver/2/event/protected/config/params.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/weout_event/!svn/ver/2/event/protected/config/console.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/weout_event/!svn/ver/4/event/protected/config/main.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/weout_event/!svn/ver/2/event/protected/config/test.php
+END

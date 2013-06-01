@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/weout_event/!svn/ver/2/event/protected/views/post
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/2/event/protected/views/post/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/weout_event/!svn/ver/2/event/protected/views/post/create.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/protected/views/post/admin.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/protected/views/post/index.php
+END
+_comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weout_event/!svn/ver/2/event/protected/views/post/_comments.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/protected/views/post/_form.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/weout_event/!svn/ver/2/event/protected/views/post/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/weout_event/!svn/ver/2/event/protected/views/post/view.php
+END
